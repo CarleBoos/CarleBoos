@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a Physics student at ETH Zürich
 
 <!--
 **CarleBoos/CarleBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
